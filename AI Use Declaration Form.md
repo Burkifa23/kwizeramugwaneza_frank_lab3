@@ -17,9 +17,9 @@
 |**1. AI Use Summary**||
 |---|---|
 |**Question**|**Student Response**|
-|Did you use any AI tool for this lab?| |
-|Estimated percentage of the work influenced by AI| |
-|Did you attach evidence of AI use where applicable?| |
+|Did you use any AI tool for this lab?|Yes |
+|Estimated percentage of the work influenced by AI| 15|
+|Did you attach evidence of AI use where applicable?|Yes |
 
 
 
@@ -43,11 +43,11 @@ Complete the table below for each AI tool used. Add more rows where necessary.
 ## **3. Attachment of AI Output Evidence** 
 
 Where required, attach evidence of AI use. Tick all that apply. Add more rows where necessary. 
-
+Gemini :https://share.gemini.google/i5HmT3mkQgCD
 |**Evidence Type**|**Attached?**<br>**(Yes, No,**<br>**N/A)**|**File Name**|
 |---|---|---|
-| | | |
-| | | |
+|Link|Yes |https://share.gemini.google/i5HmT3mkQgCD |
+
 
 
 ## **4. Student Declaration** 
@@ -56,12 +56,12 @@ I declare that:
 
 |**Response Declaration Statement**| **(Yes/No)** |
 |---|---|
-|The submitted work is my own work. | |
-|Any use of AI tools has been clearly declared in this form. | |
-|The prompts, instructions, and AI-generated outputs have been disclosed where applicable. | |
-|I reviewed, tested, edited, and improved any AI-generated content before submission. |  |
-|My AI usage does not exceed 25% of the entire work.|  |
-|I understand that undeclared or excessive AI use may be treated as academic misconduct. |  |
+|The submitted work is my own work. |Yes |
+|Any use of AI tools has been clearly declared in this form. | Yes|
+|The prompts, instructions, and AI-generated outputs have been disclosed where applicable. | Yes|
+|I reviewed, tested, edited, and improved any AI-generated content before submission. |  Yes|
+|My AI usage does not exceed 25% of the entire work.| Yes |
+|I understand that undeclared or excessive AI use may be treated as academic misconduct. | Yes |
 
 **Student Signature:** _frank_
 
